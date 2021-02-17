@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Backes
+#### Hi there, I'm Daniel Backes
 
 - 👨‍🎓 Computing Scientist
 - 💻 Developing with PHP (Symfony Framework) and Javascript for many years (6+)
@@ -50,7 +50,7 @@
 
 ### Stats
 
-![image](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=graywhite)
+![image](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=graywhite&layout=compact)
 ![image](https://github-readme-stats.danielbackes.vercel.app/api?username=danielbackes&theme=graywhite&show_icons=true)
 
 ### Main Projects
