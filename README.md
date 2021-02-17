@@ -13,12 +13,6 @@
 [![image](https://img.shields.io/badge/Protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:danielbackes@protonmail.com)
 
 
-### Github stats
-
-![image](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=graywhite)
-![image](https://github-readme-stats.danielbackes.vercel.app/api?username=danielbackes&theme=graywhite&show_icons=true)
-
-
 ### Languages and Libraries
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
@@ -54,8 +48,13 @@
 
 </details> -->
 
+### Stats
+
+![image](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=graywhite)
+![image](https://github-readme-stats.danielbackes.vercel.app/api?username=danielbackes&theme=graywhite&show_icons=true)
+
 ### Main Projects
-[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-api&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-api)
-[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-mobile&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-mobile)
-[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-web&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-web)
-[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=symfony-4.4&theme=vue)](https://https://github.com/danielbackes/symfony-4.4)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-api&theme=calm)](https://https://github.com/danielbackes/rocketseat-gobarber-api)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-mobile&theme=calm)](https://https://github.com/danielbackes/rocketseat-gobarber-mobile)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-web&theme=calm)](https://https://github.com/danielbackes/rocketseat-gobarber-web)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=symfony-4.4&theme=calm)](https://https://github.com/danielbackes/symfony-4.4)
