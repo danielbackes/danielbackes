@@ -15,8 +15,8 @@
 
 ### Github stats
 
-[![Daniel Backes' GitHub stats](https://github-readme-stats.danielbackes.vercel.app/api?username=danielbackes&theme=vue&show_icons=true)](https://github.com/danielbackes)
-[![Top Langs](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=vue)](https://github.com/danielbackes)
+![image](https://github-readme-stats.danielbackes.vercel.app/api/top-langs/?username=danielbackes&theme=graywhite)
+![image](https://github-readme-stats.danielbackes.vercel.app/api?username=danielbackes&theme=graywhite&show_icons=true)
 
 
 ### Languages and Libraries
@@ -53,3 +53,9 @@
   Teste
 
 </details> -->
+
+### Main Projects
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-api&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-api)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-mobile&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-mobile)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=rocketseat-gobarber-web&theme=vue)](https://https://github.com/danielbackes/rocketseat-gobarber-web)
+[![image](https://github-readme-stats.danielbackes.vercel.app/api/pin/?username=danielbackes&repo=symfony-4.4&theme=vue)](https://https://github.com/danielbackes/symfony-4.4)
